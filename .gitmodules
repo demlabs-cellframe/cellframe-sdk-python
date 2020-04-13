@@ -1,0 +1,40 @@
+[submodule "libdap-python"]
+	path = libdap-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-python.git
+	branch = master
+[submodule "libdap-app-cli-python"]
+	path = libdap-app-cli-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-app-cli-python.git
+	branch = master
+[submodule "libdap-server-core-python"]
+	path = libdap-server-core-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-server-core-python.git
+	branch = master
+[submodule "libdap-chain-common-python"]
+	path = libdap-chain-common-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-chain-common-python.git
+	branch = master
+[submodule "libdap-chain-python"]
+	path = libdap-chain-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-chain-python.git
+	branch = master
+[submodule "libdap-chain-net-python"]
+	path = libdap-chain-net-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-chain-net-python.git
+	branch = master
+[submodule "libdap-chain-net-srv-python"]
+	path = libdap-chain-net-srv-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-chain-net-srv-python.git
+	branch = master
+[submodule "libdap-chain-gdb-python"]
+	path = libdap-chain-gdb-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-chain-gdb-python.git
+	branch = master
+[submodule "libdap-client-python"]
+	path = libdap-client-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-client-python.git
+	branch = master
+[submodule "libdap-crypto-python"]
+	path = libdap-crypto-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-crypto-python.git
+	branch = master
