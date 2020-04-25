@@ -38,3 +38,7 @@
 	path = libdap-crypto-python
 	url = https://gitlab.demlabs.net/cellframe/libdap-crypto-python.git
 	branch = master
+[submodule "libdap-chain-wallet-python"]
+	path = libdap-chain-wallet-python
+	url = https://gitlab.demlabs.net/cellframe/libdap-chain-wallet-python.git
+	branch = master
