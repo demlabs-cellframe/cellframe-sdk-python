@@ -1,0 +1,12 @@
+Version 2.0 released!
+ * wrapping "gdb" now is "none"
+ * libdap-python			-> dap-sdk-python/core
+ * libdap-crypto-python			-> dap-sdk-python/crypto
+ * libdap-server-core-python		-> dap-sdk-python/net/core
+ * libdap-client-python			-> dap-sdk-python/net/client
+ * libdap-app-cli-python		-> modules/app-cli
+ * libdap-chain-python			-> modules/chain
+ * libdap-chain-common-python		-> modules/common
+ * libdap-chain-net-python		-> modules/net
+ * libdap-chain-wallet-python		-> modules/wallet
+
